@@ -1,2 +1,2 @@
 # HelloWorld
-非项目，仅了解使用而建
+# readme文件初编写
