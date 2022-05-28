@@ -1,2 +1,2 @@
 # HelloWorld
-just a rubbish repository.
+非项目，仅了解使用而建
